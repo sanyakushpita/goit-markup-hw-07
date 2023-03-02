@@ -9,6 +9,7 @@
   .container {
     max-width: 768px;
   }
+  /* Header */
   .header {
     padding-top: 24px;
     padding-bottom: 12px;
@@ -37,7 +38,7 @@
   .address .link {
     font-size: 12px;
   }
-
+  /* Hero */
   .hero {
     background-image: linear-gradient(
         rgba(46, 47, 66, 0.7),
@@ -65,7 +66,7 @@
     max-width: 496px;
     margin-bottom: 40px;
   }
-
+  /* Feature */
   .feature .title {
     text-align: left;
   }
@@ -82,7 +83,7 @@
   .feature-list .item {
     width: calc((100% - 24px) / 2);
   }
-
+  /* Team */
   .team {
     padding-bottom: 104px;
   }
@@ -92,7 +93,7 @@
   .customers-container .list {
     gap: 72px 24px;
   }
-
+  /* Portfolio */
   .portfolio {
     padding-top: 64px;
     padding-bottom: 96px;
@@ -103,6 +104,7 @@
   .btn-list {
     margin-bottom: 64px;
   }
+  /* Project */
   .portfolio-container .project-list {
     display: flex;
     flex-wrap: wrap;
@@ -112,7 +114,7 @@
   .project-list .item {
     flex-basis: calc((100% - 24px) / 2);
   }
-
+  /* Footer */
   .footer-container {
     flex-direction: row;
     flex-wrap: wrap;
@@ -140,6 +142,7 @@
   .container {
     max-width: 1158px;
   }
+  /* Header */
   .header {
     padding-bottom: 24px;
   }
@@ -156,6 +159,7 @@
   .address .link {
     font-size: 16px;
   }
+  /* Hero */
   .hero {
     background-image: linear-gradient(
         rgba(46, 47, 66, 0.7),
@@ -182,7 +186,7 @@
   .hero-title {
     margin-bottom: 48px;
   }
-
+  /* Feature */
   .feature {
     padding-top: 120px;
     padding-bottom: 120px;
@@ -215,11 +219,11 @@
     font-size: 16px;
     width: 264px;
   }
-
+  /* Service */
   .service {
     display: flex;
   }
-
+  /* Team */
   .team {
     padding-top: 120px;
     padding-bottom: 120px;
@@ -227,7 +231,7 @@
   .team-container .team-list {
     gap: 24px;
   }
-
+  /* Customers */
   .customers {
     padding-top: 130px;
     padding-bottom: 120px;
@@ -238,7 +242,7 @@
   .customers-container .item {
     width: calc((100% - 120px) / 6);
   }
-
+  /* Portfolio */
   .portfolio {
     padding-top: 96px;
     padding-bottom: 120px;
@@ -246,7 +250,7 @@
   .btn-list {
     margin-bottom: 72px;
   }
-
+  /* Projects */
   .portfolio-container .project-list {
     gap: 48px 24px;
   }
@@ -254,6 +258,7 @@
   .project-list .item {
     flex-basis: calc((100% - 48px) / 3);
   }
+  /* Footer */
   .footer {
     padding-top: 100px;
     padding-bottom: 100px;
@@ -268,6 +273,7 @@
     margin-bottom: 0;
     margin-right: 80px;
   }
+  /* Modal */
   .modal {
     width: 408px;
   }
